@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Replace with your project banner -->
+
 
 <img src="assets/banner.png" alt="Redis-Inspired Distributed In-Memory Database Banner" width="100%"/>
 
