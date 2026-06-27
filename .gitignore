@@ -50,7 +50,6 @@ out/
 bin/
 
 # Reports and generated data
-reports/
 *.log
 
 # IDEs and editors
